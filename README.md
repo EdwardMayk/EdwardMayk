@@ -1,3 +1,4 @@
+![](https://i.postimg.cc/BZF0pq3h/portada-go-toubun-no-hanayome-18.jpg)
 <h1 align="center">Hi 👋, I'm Edward</h1>
 
 <h3 align="center">Backend Developer - Python - Django</h3>
