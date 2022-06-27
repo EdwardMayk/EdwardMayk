@@ -51,9 +51,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31l4mqndravea6f2rxw5k7bp4oqy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4mqndravea6f2rxw5k7bp4oqy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
 ###
