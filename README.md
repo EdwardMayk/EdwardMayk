@@ -54,8 +54,8 @@
   
 </div>
 
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4mqndravea6f2rxw5k7bp4oqy&cover_image=true&theme=novatorem&bar_color=077203&bar_color_cover=false" /></div>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4mqndravea6f2rxw5k7bp4oqy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /></div>  
 
 
 ###
