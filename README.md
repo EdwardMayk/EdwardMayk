@@ -51,10 +51,13 @@
 <br clear="both">
 
 <div align="center">
-  <img [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4mqndravea6f2rxw5k7bp4oqy&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) />
+  
 </div>
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4mqndravea6f2rxw5k7bp4oqy&cover_image=true&theme=default" /></div>  
 
 
 ###
+
 
 
