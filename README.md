@@ -9,12 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=EdwardMayk" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.postimg.cc/hvwmQNNt/yotsuba-nakano.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
@@ -42,23 +36,6 @@
 
 ###
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/EdwardMayk/EdwardMayk/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  
-</div>
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4mqndravea6f2rxw5k7bp4oqy&cover_image=true&theme=novatorem&bar_color=077203&bar_color_cover=false" /></div>  
-
-
-
-###
 
 
 
