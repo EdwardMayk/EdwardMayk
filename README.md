@@ -26,13 +26,3 @@ Apasionado por la Infraestructura como Código (IaC), la cultura DevOps y la opt
 
 * 🎯 **Mi enfoque:** Diseñar infraestructuras escalables, seguras y automatizar pipelines de CI/CD para eliminar la fricción entre desarrollo y operaciones.
 * ⚙️ **Mi filosofía:** Si un proceso se realiza de forma manual más de dos veces, es un candidato obligatorio para ser automatizado.
-
----
-
-
-## 🤝 Conectemos
-
-Estoy abierto a oportunidades laborales, colaboraciones en proyectos de código abierto o simplemente a debatir sobre buenas prácticas en Cloud y DevOps.
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/edmayk/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:edmayk.py@gmail.com)
