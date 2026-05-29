@@ -1,81 +1,63 @@
 <div align="center">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-<tr>
-<td width="58%" valign="top" align="left" style="border: none; padding-right: 20px;">
+# Hola, soy Edward 👋
 
-## ¡Hola! Soy Mayk 👋
+**Cloud Engineer en formación &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; IaC &nbsp;·&nbsp; Automatización**
 
-🖥️ Cloud Engineer en formación  
-🚀 Apasionado por DevOps, IaC y automatización  
-☁️ Construyendo mi camino en la nube  
+<br>
 
-### 🔧 Tecnologías
-
-<table border="0" cellspacing="0" cellpadding="8" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS"/>
-      <br>AWS
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="48" height="48" alt="Terraform"/>
-      <br>Terraform
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker"/>
-      <br>Docker
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="48" height="48" alt="Kubernetes"/>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-      <br>Linux
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git"/>
-      <br>Git
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="48" height="48" alt="GitHub Actions"/>
-      <br>GitHub Actions
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="48" height="48" alt="Python"/>
-      <br>Python
-    </td>
-    <td align="center" width="90" style="border: none;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash"/>
-      <br>Bash
-    </td>
-  </tr>
-</table>
-
-</td>
-<td width="42%" valign="top" align="center" style="border: none; padding-left: 20px;">
-
-&nbsp;
-
-&nbsp;
-
-### 📊 Estadísticas de GitHub
-
-&nbsp;
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdwardMayk&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=Estadísticas+de+GitHub)
-
-&nbsp;
-
-![GitHub Streak](https://streak-stats.demolab.com?user=EdwardMayk&theme=dark&hide_border=true&locale=es)
-
-&nbsp;
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardMayk&layout=compact&theme=dark&hide_border=true)
-
-</td>
-</tr>
-</table>
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)&nbsp;&nbsp;
+[![Terraform](https://skillicons.dev/icons?i=terraform)](https://terraform.io)&nbsp;&nbsp;
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)&nbsp;&nbsp;
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)&nbsp;&nbsp;
+[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)&nbsp;&nbsp;
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)&nbsp;&nbsp;
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)&nbsp;&nbsp;
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)&nbsp;&nbsp;
+[![Bash](https://skillicons.dev/icons?i=bash)](https://gnu.org/software/bash)
 
 </div>
+
+---
+
+## 🚀 Sobre Mí
+
+Apasionado por la Infraestructura como Código (IaC), la cultura DevOps y la optimización de arquitecturas en la nube. Actualmente, estoy enfocando mi experiencia técnica en la transición hacia el rol de **Cloud / DevOps Engineer**, aplicando buenas prácticas de la industria para construir entornos robustos.
+
+* 🎯 **Mi enfoque:** Diseñar infraestructuras escalables, seguras y automatizar pipelines de CI/CD para eliminar la fricción entre desarrollo y operaciones.
+* ⚙️ **Mi filosofía:** Si un proceso se realiza de forma manual más de dos veces, es un candidato obligatorio para ser automatizado.
+
+---
+
+## 🛠️ Proyecto Destacado
+
+### ☁️ Arquitectura AWS ECS con Terraform (Producción-Ready)
+**Infraestructura como Código (IaC) modular para el despliegue automatizado de aplicaciones contenerizadas.**
+ 
+> 📂 **[Ver Código del Repositorio ↗️](https://github.com/EdwardMayk)** 
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,postgres,redis" alt="Project Stack" />
+</p>
+
+* **Computación & Tráfico:** Despliegue de microservicios mediante **AWS ECS Fargate** (Serverless) altamente disponible, distribuido por un **Application Load Balancer (ALB)**.
+* **Persistencia de Datos:** Base de datos relacional con **RDS PostgreSQL** en subredes privadas y capa de caché de alto rendimiento con **Redis ElastiCache**.
+* **Seguridad & Redes:** Diseño de arquitectura de red desde cero con **VPC Networking** (subredes públicas/privadas, NAT Gateways) y gestión de acceso basada en el principio de mínimo privilegio con **IAM Roles & Policies**.
+* **Estado Remoto:** Configuración segura de **Remote State de Terraform** utilizando S3 para el almacenamiento y DynamoDB para el bloqueo de estado (State Locking).
+
+### ⚙️ Pipeline de CI/CD Automatizado (GitHub Actions)
+**Flujo de trabajo de integración y despliegue continuo optimizado para cero tiempo de inactividad.**
+
+* 🧪 **Calidad de Código:** Ejecución automatizada de **Linter** (TFLint / Flake8) y **Pruebas Unitarias** antes de cada compilación.
+* 🐳 **Contenerización Eficiente:** Pipeline optimizado de **Docker Build & Push** hacia AWS ECR utilizando multi-stage builds para reducir el peso de las imágenes.
+* 🚀 **Despliegue Continuo (CD):** Actualización automática del servicio en **AWS ECS** utilizando estrategias de **Rolling Updates** y monitoreo de **Health Checks**.
+* 🛡️ **Resiliencia:** Mecanismo de **Retorno Automático (Automatic Rollback)** en caso de fallas durante el despliegue para garantizar la disponibilidad del sistema.
+
+---
+
+## 🤝 Conectemos
+
+Estoy abierto a oportunidades laborales, colaboraciones en proyectos de código abierto o simplemente a debatir sobre buenas prácticas en Cloud y DevOps.
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/edmayk/) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:edmayk.py@gmail.com)
