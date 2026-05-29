@@ -29,31 +29,6 @@ Apasionado por la Infraestructura como Código (IaC), la cultura DevOps y la opt
 
 ---
 
-## 🛠️ Proyecto Destacado
-
-### ☁️ Arquitectura AWS ECS con Terraform (Producción-Ready)
-**Infraestructura como Código (IaC) modular para el despliegue automatizado de aplicaciones contenerizadas.**
- 
-> 📂 **[Ver Código del Repositorio ↗️](https://github.com/EdwardMayk)** 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,githubactions,postgres,redis" alt="Project Stack" />
-</p>
-
-* **Computación & Tráfico:** Despliegue de microservicios mediante **AWS ECS Fargate** (Serverless) altamente disponible, distribuido por un **Application Load Balancer (ALB)**.
-* **Persistencia de Datos:** Base de datos relacional con **RDS PostgreSQL** en subredes privadas y capa de caché de alto rendimiento con **Redis ElastiCache**.
-* **Seguridad & Redes:** Diseño de arquitectura de red desde cero con **VPC Networking** (subredes públicas/privadas, NAT Gateways) y gestión de acceso basada en el principio de mínimo privilegio con **IAM Roles & Policies**.
-* **Estado Remoto:** Configuración segura de **Remote State de Terraform** utilizando S3 para el almacenamiento y DynamoDB para el bloqueo de estado (State Locking).
-
-### ⚙️ Pipeline de CI/CD Automatizado (GitHub Actions)
-**Flujo de trabajo de integración y despliegue continuo optimizado para cero tiempo de inactividad.**
-
-* 🧪 **Calidad de Código:** Ejecución automatizada de **Linter** (TFLint / Flake8) y **Pruebas Unitarias** antes de cada compilación.
-* 🐳 **Contenerización Eficiente:** Pipeline optimizado de **Docker Build & Push** hacia AWS ECR utilizando multi-stage builds para reducir el peso de las imágenes.
-* 🚀 **Despliegue Continuo (CD):** Actualización automática del servicio en **AWS ECS** utilizando estrategias de **Rolling Updates** y monitoreo de **Health Checks**.
-* 🛡️ **Resiliencia:** Mecanismo de **Retorno Automático (Automatic Rollback)** en caso de fallas durante el despliegue para garantizar la disponibilidad del sistema.
-
----
 
 ## 🤝 Conectemos
 
