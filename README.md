@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Edward 👋
+# Hola, soy Edward 
 
 **Cloud Engineer en formación &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; IaC &nbsp;·&nbsp; Automatización**
 
@@ -20,9 +20,9 @@
 
 ---
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 Apasionado por la Infraestructura como Código (IaC), la cultura DevOps y la optimización de arquitecturas en la nube. Actualmente, estoy enfocando mi experiencia técnica en la transición hacia el rol de **Cloud / DevOps Engineer**, aplicando buenas prácticas de la industria para construir entornos robustos.
 
-* 🎯 **Mi enfoque:** Diseñar infraestructuras escalables, seguras y automatizar pipelines de CI/CD para eliminar la fricción entre desarrollo y operaciones.
-* ⚙️ **Mi filosofía:** Si un proceso se realiza de forma manual más de dos veces, es un candidato obligatorio para ser automatizado.
+* **Mi enfoque:** Diseñar infraestructuras escalables, seguras y automatizar pipelines de CI/CD para eliminar la fricción entre desarrollo y operaciones.
+* **Mi filosofía:** Si un proceso se realiza de forma manual más de dos veces, es un candidato obligatorio para ser automatizado.
